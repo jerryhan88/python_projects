@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="false" name="v10_5" category="opl">
+			<ref type="model" name="Models collection/v10_5.mod">
+			</ref>
+			<ref type="data" name="Data collection/ex3_5.dat">
+			</ref>
+		</config>
+		<config default="false" name="ex6" category="opl">
+			<ref type="model" name="Models collection/v10_5.mod">
+			</ref>
+			<ref type="data" name="Data collection/ex6.dat">
+			</ref>
+		</config>
+		<config default="false" name="ex9" category="opl">
+			<ref type="model" name="Models collection/v10_5.mod">
+			</ref>
+			<ref type="data" name="Data collection/ex9.dat">
+			</ref>
+		</config>
+		<config default="false" name="ex7" category="opl">
+			<ref type="model" name="Models collection/v10_5.mod">
+			</ref>
+			<ref type="data" name="Data collection/ex7.dat">
+			</ref>
+		</config>
+		<config default="false" name="ex8" category="opl">
+			<ref type="data" name="Data collection/ex8.dat">
+			</ref>
+			<ref type="model" name="Models collection/v10_5.mod">
+			</ref>
+		</config>
+		<config default="true" name="v10_6" category="opl">
+			<ref type="data" name="Data collection/ex9.dat">
+			</ref>
+			<ref type="model" name="Models collection/v10_6.mod">
+			</ref>
+		</config>
+		<config default="false" name="&amp;#44396;&amp;#49457; 1" category="opl">
+			<ref type="model" name="Models collection/v10_6.mod">
+			</ref>
+			<ref type="data" name="Data collection/real.dat">
+			</ref>
+		</config>
+		<config default="false" name="&amp;#44396;&amp;#49457; 2" category="opl">
+			<ref type="data" name="Data collection/small.dat">
+			</ref>
+			<ref type="model" name="Models collection/v10_6.mod">
+			</ref>
+		</config>
+		<config default="false" name="&amp;#44396;&amp;#49457; 3" category="opl">
+			<ref type="model" name="Models collection/v10_6.mod">
+			</ref>
+			<ref type="data" name="Data collection/Junho.dat">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
